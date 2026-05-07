@@ -157,5 +157,13 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="interceptsuite--proxybridge"></div>
 
+### InterceptSuite--ProxyBridge
+
+🔗 [source](https://github.com/InterceptSuite/ProxyBridge) – [<code><small>v3.2.0</small></code>](https://github.com/InterceptSuite/ProxyBridge/releases/tag/v3.2.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `ProxyBridge-Setup-3.2.0.exe` | 12.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mehregan9000/LatestReleaseMirror/main/releases/InterceptSuite/ProxyBridge/ProxyBridge-Setup-3.2.0.exe) |
 <!-- RELEASES_END -->
